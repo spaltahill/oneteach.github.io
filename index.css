@@ -27,6 +27,9 @@ nav a:hover {
 h1 {
   font-size: 40px;
   text-align: center;
+  border-style: solid;
+  border-width: medium;
+  border-color: #c8dbd7;
 }
 
 h3 {
