@@ -4,3 +4,22 @@ body {
   color: #f6efe7;
   font-size: 14px;
 }
+
+nav {
+  background-color: #c8dbd7;
+  overflow: hidden;
+}
+
+nav a {
+  float: left;
+  color: #f6efe7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+nav a:hover {
+  background-color: #f5d4c3;
+  color: #e09789;
+}
