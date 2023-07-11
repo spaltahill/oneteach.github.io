@@ -41,3 +41,8 @@ h3 {
   text-align: center;
 }
 
+.course-list a:hover {
+  background-color: #f5d4c3;
+  color: #e09789;
+}
+
