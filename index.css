@@ -45,3 +45,9 @@ img {
   width: 200px;
   height: 100px;
 }
+
+.catalog {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-star;
+}
